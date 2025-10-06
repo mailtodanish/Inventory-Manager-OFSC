@@ -1,0 +1,51 @@
+input[readonly] {
+    background-color: #f8f9fa !important; /* Bootstrap's light gray */
+  }
+
+  .text-primary {
+    --bs-text-opacity: 1;
+    color: rgb(99 3 67) !important ;
+}
+
+.form-select:disabled {
+    background-color: #f8f9fa !important;
+}
+label {
+  box-sizing: border-box;
+  color: rgba(22, 21, 19, 0.65);
+  cursor: default;
+  display: inline;
+  font-family: "Oracle Sans", -apple-system, system-ui, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  font-size: 12px;
+  font-variant-numeric: tabular-nums;
+  font-weight: 600;
+  height: auto;
+  line-height: 15.6px;
+  margin-bottom: 2px;
+  max-height: none;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  pointer-events: auto;
+  text-align: left;
+  text-overflow: ellipsis;
+  text-size-adjust: 100%;
+  transition-behavior: normal; /* not widely supported */
+  transition-delay: 0s;
+  transition-duration: 0.25s;
+  transition-property: max-height;
+  transition-timing-function: ease;
+  vertical-align: baseline;
+  white-space: normal; /* changed from collapse (invalid) */
+  width: fit-content;
+  word-break: break-word;
+}
+
+.form-label {
+  margin-bottom: 0 !important; /* or 0 if you want no gap */
+}
+
+.form-check-input:checked {
+    background-color: #141414 !important;
+    border-color: #161718 !important;
+    
+}
