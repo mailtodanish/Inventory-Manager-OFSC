@@ -28,21 +28,9 @@ This plugin fills that gap by giving dispatchers and administrators a convenient
 
 ## ⚙️ Configuration Steps
 
-1. **Upload the Plugin**
-   - Log in to your **OFSC instance**.
-   - Navigate to **Configuration → Plugins**.
-   - Upload the provided plugin files (HTML, JS, and CSS).
+A visual walkthrough of how to configure and use the plugin, check out the video below:
 
-2. **Configure Plugin Settings**
- 
-
-3. **Assign to a User Role**
-   - Assign the plugin to the **Dispatcher** or **Administrator** role.
-   - Ensure the users have permissions to view and modify inventory.
-
-4. **Access the Plugin**
-   - Open the plugin from your OFSC interface.
-   - Search for a resource (technician) and manage their inventory in real time.
+[![OFSC Plugin for Inventory Management Tutorial](https://img.youtube.com/vi/DMH3sp_w3Aw/0.jpg)](https://www.youtube.com/watch?v=DMH3sp_w3Aw)
 
 ---
 
@@ -72,11 +60,6 @@ This plugin fills that gap by giving dispatchers and administrators a convenient
 
 ---
 
-## 🎥 Video Tutorial
-
-If you’d like a visual walkthrough of how to configure and use the plugin, check out the video below:
-
-[![OFSC Plugin for Inventory Management Tutorial](https://img.youtube.com/vi/DMH3sp_w3Aw/0.jpg)](https://www.youtube.com/watch?v=DMH3sp_w3Aw)
 
 
 ## 🔒 Notes
