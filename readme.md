@@ -73,8 +73,7 @@ This plugin fills that gap by giving dispatchers and administrators a convenient
 ---
 
 ## 🔒 Notes
-- This plugin directly interacts with the OFSC inventory APIs — changes made are **immediately reflected** in your production data.
-- Always test updates or deletions in a **sandbox environment** before deploying to production.
+- This plugin directly interacts with the OFSC inventory APIs — changes made are **immediately reflected** in your ofsc data.
 
 ---
 
