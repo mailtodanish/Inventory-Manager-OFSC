@@ -72,6 +72,13 @@ This plugin fills that gap by giving dispatchers and administrators a convenient
 
 ---
 
+## 🎥 Video Tutorial
+
+If you’d like a visual walkthrough of how to configure and use the plugin, check out the video below:
+
+[![OFSC Plugin for Inventory Management Tutorial](https://img.youtube.com/vi/DMH3sp_w3Aw/0.jpg)](https://www.youtube.com/watch?v=DMH3sp_w3Aw)
+
+
 ## 🔒 Notes
 - This plugin directly interacts with the OFSC inventory APIs — changes made are **immediately reflected** in your ofsc data.
 
