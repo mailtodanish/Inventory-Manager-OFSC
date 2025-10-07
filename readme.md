@@ -30,7 +30,7 @@ This plugin fills that gap by giving dispatchers and administrators a convenient
 
 A visual walkthrough of how to configure and use the plugin, check out the video below:
 
-[![OFSC Plugin for Inventory Management Tutorial](https://img.youtube.com/vi/DMH3sp_w3Aw/0.jpg)](https://www.youtube.com/watch?v=DMH3sp_w3Aw)
+[![OFSC Plugin for Inventory Management Tutorial](https://img.youtube.com/vi/xLN5v8cSDBg/0.jpg)](https://www.youtube.com/watch?v=xLN5v8cSDBg)
 
 ---
 
